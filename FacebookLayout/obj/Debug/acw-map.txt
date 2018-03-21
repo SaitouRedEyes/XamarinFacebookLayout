@@ -1,0 +1,4 @@
+FacebookLayout.MainActivity, FacebookLayout;md537f6d2b878ed8505238d31c8e652f4ce.MainActivity
+FacebookLayout.MainActivity, FacebookLayout, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md537f6d2b878ed8505238d31c8e652f4ce.MainActivity
+FacebookLayout.MainActivity;md537f6d2b878ed8505238d31c8e652f4ce.MainActivity
+facebooklayout.MainActivity;md537f6d2b878ed8505238d31c8e652f4ce.MainActivity
