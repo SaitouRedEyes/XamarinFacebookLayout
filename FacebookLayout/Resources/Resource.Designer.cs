@@ -44,6 +44,39 @@ namespace FacebookLayout
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f040006
+			public const int botao1 = 2130968582;
+			
+			// aapt resource value: 0x7f04000f
+			public const int botao10 = 2130968591;
+			
+			// aapt resource value: 0x7f040010
+			public const int botao11 = 2130968592;
+			
+			// aapt resource value: 0x7f040007
+			public const int botao2 = 2130968583;
+			
+			// aapt resource value: 0x7f040008
+			public const int botao3 = 2130968584;
+			
+			// aapt resource value: 0x7f040009
+			public const int botao4 = 2130968585;
+			
+			// aapt resource value: 0x7f04000a
+			public const int botao5 = 2130968586;
+			
+			// aapt resource value: 0x7f04000b
+			public const int botao6 = 2130968587;
+			
+			// aapt resource value: 0x7f04000c
+			public const int botao7 = 2130968588;
+			
+			// aapt resource value: 0x7f04000d
+			public const int botao8 = 2130968589;
+			
+			// aapt resource value: 0x7f04000e
+			public const int botao9 = 2130968590;
+			
 			// aapt resource value: 0x7f040003
 			public const int button_login = 2130968579;
 			
@@ -77,6 +110,9 @@ namespace FacebookLayout
 			
 			// aapt resource value: 0x7f020000
 			public const int Main = 2130837504;
+			
+			// aapt resource value: 0x7f020001
+			public const int Test = 2130837505;
 			
 			static Layout()
 			{
